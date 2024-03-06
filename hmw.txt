@@ -1,10 +1,12 @@
-What is the capital of France?Paris,Moscow,Yerevan,Berlin
-What is the capital of Russia?Moscow,Paris,Yerevan,Berlin
-What is the capital of Georgia?Tbilisi,Moscow,Yerevan,Berlin
-What is the capital of Norway?Oslo,Moscow,Yerevan,Berlin
-What is the capital of Canada?Ottawa,Moscow,Yerevan,Berlin
-What is the capital of Belarus?Minsk,Moscow,Yerevan,Berlin
-What is the capital of Ukrain?Kiev,Moscow,Yerevan,Berlin
-What is the capital of Portugal?Lisbon,Moscow,Yerevan,Berlin
-What is the capital of Austria?Veinne,Moscow,Yerevan,Berlin
-What is the capital of Armenia?Lennakan,Moscow,Yerevan,Berlin
+2+2?4,12,0,5
+Who was the Ancient Greek God of the Sun?Apollo,Ares,Hera,Zeus
+How many minutes are in a full week?10.080,20.340,60.000,44.444
+Aureolin is a shade of what color?Yellow,Green,Blue,Red
+Which planet has the most moons?Saturn,Earth,Uranus,Mars
+How many bones do we have in an ear?3,2,4,1
+How many hearts does an octopus have?3,1,2,4
+What planet is closest to the sun?Mercury,Uranus,Earth,Mars
+How many colors are used in the South African flag?6,5,1,3
+What phone company produced the 3310?Nokia,Apple,Samsung,LG
+Where did sushi originate?China,Japan,USA,Armenia
+What year was Cinderella released?1950,1949,2000,2001
